@@ -1,8 +1,48 @@
-id.title{
-
-font-weight: bold;
-color:red;
-text-align: center;
-background-color: darksalmon;
+* { 
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
+
+h1.title{
+color: red;
+text-align: center;
+}
+
+div.Elcafé {
+
+    font-weight:bold ;
+text-align: center;
+}
+
+div.Contacto{
+
+font-weight: bold;
+text-align: right;
+color: brown;
+}
+
+div.color {
+
+color: brown;
+}
+
+h1.LaCarta{
+
+    color: red;
+    text-align: center;
+}
+
+h1.titulo{
+
+    color: red;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+div.text{
+    color:red;
+    background-color: blanchedalmond;
+
+}
